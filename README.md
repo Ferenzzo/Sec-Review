@@ -16,4 +16,7 @@
 # Using the Randomized Reviewer.Html
 ## 4th Mock Exam Result - Nov 26, 2026 - FAILED
 - 90 Items
-- 39/90
+- 39/90 = 43%
+
+## 5th Mock Exam Result - Nov 26, 2026 - FAILED
+- 45/90 = 50%
