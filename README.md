@@ -22,4 +22,5 @@
 - 45/90 = 50%
 
 ## 6th Mock Exam Result - Nov 27, 2026 - FAILED
-- 47/90 = 52%
+- 47/90 = 52%-
+- 7th Mock exam - 26/50
