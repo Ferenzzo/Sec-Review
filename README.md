@@ -27,3 +27,4 @@
 
 ## 7th Mock Exam Result - Nov 28, 2026 - FAILED
 - 46/90
+- 51/90 = 56%
